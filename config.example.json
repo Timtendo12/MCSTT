@@ -1,0 +1,14 @@
+{
+  "__comment": "SPOTIFY",
+  "spotiyClientID": "",
+  "spotifySecretID": "",
+  "spotifyRedirectURL": "if applicable",
+
+
+  "_comment": "TWITTER",
+  "twitterConsumer_key": "",
+  "twitterConsumer_secret": "",
+  "twitterAccess_token_key": "",
+  "twitterAccess_secret": "",
+  "twitterBearer": ""
+}

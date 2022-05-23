@@ -1,0 +1,15 @@
+{
+  "name": "mcstt",
+  "version": "1.0.0",
+  "description": "tracks stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timtendo12",
+  "license": "MIT",
+  "dependencies": {
+    "spotify-web-api-node": "^5.0.2",
+    "twitter": "^1.7.1"
+  }
+}
